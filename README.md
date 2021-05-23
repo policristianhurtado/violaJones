@@ -1,7 +1,7 @@
 # violaJones
 Codigo fuente para el desarrollo del algoritmo de Viola Jones y sus aplicaciones en el reconocimiento facial
 
-##Algoritmo Viola Jones
+## Algoritmo Viola Jones
 ### algoritmoViolaJones.py
 En este se encontrara la implementacion del algoritmo con la libreria OpenCV
 
